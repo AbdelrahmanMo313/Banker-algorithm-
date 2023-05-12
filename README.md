@@ -31,3 +31,8 @@ The provided Python code implements the Banker's algorithm using the PyQt5 libra
 - The main execution flow starts with creating an instance of `Ui_DataInput1` and displaying the input window. The user enters the number of processes and resources, and subsequent windows appear to collect the required input.
 - Finally, the program determines if the system is in a safe state and displays the result in the `Ui_Result` window.
 
+<img width="281" alt="Screenshot 2023-05-12 232557" src="https://github.com/AbdelrahmanMo313/Banker-algorithm-/assets/96300769/a1852d3d-1aca-42ba-9153-912433f95f53">
+<img width="198" alt="Screenshot 2023-05-12 232309" src="https://github.com/AbdelrahmanMo313/Banker-algorithm-/assets/96300769/fcb523d4-ce1e-4a1c-b773-a935d7e5bc51">
+<img width="293" alt="Screenshot 2023-05-12 232429" src="https://github.com/AbdelrahmanMo313/Banker-algorithm-/assets/96300769/0fa74710-8b38-4e8b-9836-fdfa718bce20">
+<img width="212" alt="Screenshot 2023-05-12 232515" src="https://github.com/AbdelrahmanMo313/Banker-algorithm-/assets/96300769/f7f92461-c7da-4bb3-8218-a22282be6345">
+<img width="379" alt="Screenshot 2023-05-12 232541" src="https://github.com/AbdelrahmanMo313/Banker-algorithm-/assets/96300769/931e5535-b8b7-4625-8789-02ffeedb8738">
